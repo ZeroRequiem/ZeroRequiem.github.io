@@ -1,0 +1,11 @@
+/* TEAM */
+	Web designer: Gustav Karlsson
+	Contact:
+	Twitter:
+	From: Kalmar, Sweden
+
+/* SITE */
+	Last update:2015/11/04
+	Language: English
+	Doctype:HTML5
+	IDE: Webstorm
