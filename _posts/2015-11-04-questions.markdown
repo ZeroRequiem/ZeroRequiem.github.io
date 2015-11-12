@@ -39,7 +39,7 @@ Another example of when it would not be good to use static websites is when the 
 
 ###What is robots.txt and how have you configure it for your site?
 robots.txt is a text file that robots use to tell them what they are supposed to not look at. It is up to the robots to choose if they are following the rules in the file or not.
-I set the rules to allow google bot on everything but not all other robots are not allowed anywhere.
+I set the rules to not allow robots to index the website because I dont really want this website to be indexed in search engines.
 
 ###What is humans.txt and how have you configure it for your site?
 humans.txt is a text file that says who made the site. The purpose of this file is to make it possible to give the developers credits without actually putting that information directly

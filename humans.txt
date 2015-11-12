@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 /* TEAM */
 	Web designer: Gustav Karlsson
 	Contact:

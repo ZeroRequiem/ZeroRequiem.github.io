@@ -1,5 +1,6 @@
-User-agent: Google
-Disallow:
+---
+layout: null
+---
 
 User-agent: *
 Disallow: /
